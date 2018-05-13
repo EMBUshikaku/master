@@ -19,3 +19,5 @@ https://github.com/EMBUshikaku/master.git
 ・サーティファイC言語検定_1級.xlsx
 　試験までの進捗管理表。
 　主に学習時間記入やベースプログラムの質問箱に使ってください。
+　
+　大内 Git確認済み
